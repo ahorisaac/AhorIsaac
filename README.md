@@ -1,8 +1,9 @@
-[![Masterhead align="center"](https://ibb.co/yyYC5Df)](https://his-royal-codeness.netlify.app)
+[![Masterhead align="center"](https://i.ibb.co/R0BKP1v/Me.jpg)](https://his-royal-codeness.netlify.app)
 
 <h1 align="center">Hi 👋, I'm Ahor Isaac</h1>
 <h3 align="center">Dedicated Passionate Software Developer. I'm a solution. I find solutions and I bring solutions.</h3>
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/2669447cca1fb2702039f59dcd9717f3.gif" />
+
+<br />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trigdev&label=Profile%20views&color=0e75b6&style=flat" alt="trigdev" /> </p>
@@ -12,8 +13,6 @@
 - 🔭 I’m currently working on **Icademic**
 
 - 🌱 I’m currently learning **Spline, ThreeJS, Python AI**
-
-- 🤝 I’m looking for help with **React Native**
 
 - 💬 Ask me about **Laravel, Python, React Native**
 
