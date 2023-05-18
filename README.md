@@ -5,57 +5,32 @@
 
 <br />
 
-```php
-<?php 
+```jsx
+// Developer.test.jsx
 
-use Illuminate\Http\Request;
-use App\Models\Developer;
+import { render, screen } from "@testing-library/react";
+import Developer from "@/components/Developer";
 
-class DeveloperController extends Controller {
-    public function code(Request $request) {
-        $developer = new Developer();
-        $developer->name = "Ahor Isaac (AI)";
-        $developer->age = 23;
-        $developer->gender = "Male";
-        $developer->keyQualities = ["Problem Solver", "Attention to Details", "Creativity", "CLI Enthusiast"];
-        $developer->codesDaily = true;
-        $developer->createSolutions = true;
-        $developer->lovesCollaboration = true;
-        $developer->learnDaily = true;
-        $developer->ignoresTesting = false;
-        $developer->codefied()->save()
-        return redirect()->url("/my-profile-viewer")->with("details", $developer);
-    }
-}
+test("Developer ✔", () => {
+    render(<Developer />);
+    
+    const dev = screen.getByRole('coder', {
+        name: /ahor isaac/i
+    });
+    expect(dev).toBeProblemSolver();
+});
 ```
 
 <br />
 
----
 
 <div align="center"> 
     <img src="https://i.ibb.co/598n90P/ai-github-fighter.png" alt="img" width="500" height="500" />
 </div>
 
----
-
-
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trigdev&label=Profile%20views&color=0e75b6&style=flat" alt="trigdev" /> </p>
-
-<p align="left"> <a href="https://twitter.com/AhorIsaac_" target="blank"><img src="https://img.shields.io/twitter/follow/AhorIsaac_?logo=twitter&style=for-the-badge" alt="AhorIsaac_" /></a> </p>
-
-- 🔭 I’m currently working on **Icademic**
-
-- 🌱 I’m currently learning **Spline, and Python AI**
-
-- 💬 Ask me about **Laravel, Python, React Native**
-
-- 📫 How to reach me **his_royal_codeness@proton.me**
-
-<hr />
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
@@ -68,7 +43,7 @@ class DeveloperController extends Controller {
   <a href="https://twitter.com/AhorIsaac_">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://twitter.com/AhorIsaac_">
+  <a href="https://discordapp.com/channels/@me/8909/">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>    
 </p>
@@ -116,3 +91,5 @@ class DeveloperController extends Controller {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhorIsaac&show_icons=true&locale=en" alt="AhorIsaac" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhorIsaac&" alt="AhorIsaac" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trigdev&label=Profile%20views&color=0e75b6&style=flat" alt="trigdev" /> </p>
