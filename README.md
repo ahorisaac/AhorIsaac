@@ -1,7 +1,8 @@
-[![Masterhead align="center"](https://i.ibb.co/R0BKP1v/Me.jpg)](https://his-royal-codeness.netlify.app)
+[![Masterhead align="center"](https://i.ibb.co/p25ZQn3/1a2dae3b-0ee8-471f-aec2-9af6c82c0b7c.png)](https://ahorisaac.com)
 
 <h1 align="center">Hi 👋, I'm Ahor Isaac</h1>
-<h3 align="center"> I'm a solution. I find solutions and I bring solutions.</h3>
+<h2 align="center">His Royal Codeness</h2>
+<h3 align="center"> I'm a solution. I find solutions, and I bring solutions.</h3>
 
 <br />
 
