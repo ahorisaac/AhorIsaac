@@ -1,4 +1,4 @@
-[![Masterhead align="center"](https://i.ibb.co/p25ZQn3/1a2dae3b-0ee8-471f-aec2-9af6c82c0b7c.png)](https://ahorisaac.com)
+[![Masterhead align="center"](https://i.ibb.co/dbqK8Np/aiportfolio.png)](https://ahorisaac.com)
 
 <h1 align="center">Hi 👋, I'm Ahor Isaac</h1>
 <h2 align="center">His Royal Codeness</h2>
