@@ -1,9 +1,9 @@
 [![Masterhead align="center"](https://i.ibb.co/0RKrVXHy/hrcportfolio.png)](https://ahorisaac.com)
 
 
-<h1 align="center">Hi 👋, I'm Ahor Isaac</h1>
-<h2 align="center">His Royal Codeness</h2>
-<h3 align="center"> I'm a solution. I find solutions, and I bring solutions.</h3>
+<h1 align="center">𝖧𝗂 👋, 𝖨'𝗆 𝔸𝕙𝕠𝕣 𝕀𝕤𝕒𝕒𝕔</h1>
+<h2 align="center"> 𝗛𝗶𝘀 𝗥𝗼𝘆𝗮𝗹 𝗖𝗼𝗱𝗲𝗻𝗲𝘀𝘀 ♔⨾</h2>
+<h3 align="center"> 𝖨'𝗆 𝖺 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻. 𝖨 𝖿𝗂𝗇𝖽 𝙎𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨, 𝖺𝗇𝖽 𝖨 𝖻𝗋𝗂𝗇𝗀 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀.</h3>
 
 <br />
 
@@ -34,7 +34,7 @@ test("Developer ✔", () => {
 <br />
 
 
-<h2 align="center">Connect with Me</h2>
+<h2 align="center">Ⓒⓞⓝⓝⓔⓒⓣ ⓦⓘⓣⓗ ⓜⓔ</h2>
 <p align="center">
   <a href="http://www.linkedin.com/in/ahor-isaac">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -52,7 +52,7 @@ test("Developer ✔", () => {
 
 <br />
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">Ⓛⓐⓝⓖⓤⓐⓖⓔⓢ ⓐⓝⓓ Ⓣⓞⓞⓛⓢ</h2>
 
 <p align="center">
   <a href="https://his-royal-codeness.netlify.app/">
