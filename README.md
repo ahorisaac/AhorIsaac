@@ -34,7 +34,7 @@ test("Developer ✔", () => {
 <br />
 
 
-<h2 align="center">Ⓒⓞⓝⓝⓔⓒⓣ ⓦⓘⓣⓗ ⓜⓔ</h2>
+<h2 align="center">ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖</h2>
 <p align="center">
   <a href="http://www.linkedin.com/in/ahor-isaac">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -52,7 +52,7 @@ test("Developer ✔", () => {
 
 <br />
 
-<h2 align="center">Ⓛⓐⓝⓖⓤⓐⓖⓔⓢ ⓐⓝⓓ Ⓣⓞⓞⓛⓢ</h2>
+<h2 align="center">𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤</h2>
 
 <p align="center">
   <a href="https://his-royal-codeness.netlify.app/">
