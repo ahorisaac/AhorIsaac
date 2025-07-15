@@ -1,9 +1,9 @@
 [![Masterhead align="center"](https://i.ibb.co/0RKrVXHy/hrcportfolio.png)](https://ahorisaac.com)
 
 
-<h1 align="center">𝖧𝗂 👋, 𝖨'𝗆 𝔸𝕙𝕠𝕣 𝕀𝕤𝕒𝕒𝕔</h1>
-<h2 align="center"> 𝗛𝗶𝘀 𝗥𝗼𝘆𝗮𝗹 𝗖𝗼𝗱𝗲𝗻𝗲𝘀𝘀 ♔⨾</h2>
-<h3 align="center"> 𝖨'𝗆 𝖺 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻. 𝖨 𝖿𝗂𝗇𝖽 𝙎𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨, 𝖺𝗇𝖽 𝖨 𝖻𝗋𝗂𝗇𝗀 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀.</h3>
+<h1 align="center">Hi 👋, I'm 𝔸𝕙𝕠𝕣 𝕀𝕤𝕒𝕒𝕔</h1>
+<h2 align="center"> HIS ROYAL CODENESS 🜲⨾</h2>
+<h3 align="center"> I'm a 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻. I find 𝙎𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨, and I bring 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀.</h3>
 
 <br />
 
@@ -39,10 +39,10 @@ test("Developer ✔", () => {
   <a href="http://www.linkedin.com/in/ahor-isaac">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/ahorisaac_/">
+  <a href="https://www.instagram.com/hisroyalcodness/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://twitter.com/AhorIsaac_">
+  <a href="https://twitter.com/hisroyalcodness">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://discordapp.com/channels/@me/8909/">
